@@ -8,25 +8,25 @@ Go to http://seleniumbuilder.github.io/se-builder/ in Firefox and click **Instal
 
 ![](https://crossbrowsertesting.com/images/faq/selenium-howto-1.png)
 
-Go to Manage plugins:
+Launch Selenium Builders in Firefox and go to Manage plugins:
 
-![](https://crossbrowsertesting.com/images/faq/selenium-howto-2.png)
+![](https://crossbrowsertesting.com/images/faq/selenium-howto-2a.png)
 
-Scroll down, and select Install for the option **CrossBrowserTesting.com for Selenium Builder 1.5**. Selenium Builder will restart and should then look like this:
+Scroll down, and select Install for the option **CrossBrowserTesting.com for Selenium Builder 3 1.6**. :
 
-![](https://crossbrowsertesting.com/images/faq/selenium-howto-3.png)
+![](https://crossbrowsertesting.com/images/faq/selenium-howto-3a.png)
 
 #### Recording a script
 
 To record a script, enter your URL and select **Selenium 2**:
 
-![](https://crossbrowsertesting.com/images/faq/selenium-howto-4.png)
+![](https://crossbrowsertesting.com/images/faq/selenium-howto-4a.png)
 
 Now inside the Firefox window with the desired URL you can take actions which the add-on will record:
 
 ![](https://crossbrowsertesting.com/images/faq/selenium-howto-5.png)
 
-You can save your scripts locally, and you can create suites, which are lists of scripts to execute in sequence. In order to use these scripts on CrossBrowserTesting.com, make sure to record them as Selenium 2 scripts, not Selenium 1.
+You can save your scripts locally, and you can create suites, which are lists of scripts to execute in sequence. 
 
 #### Running the script on CrossBrowserTesting.com's browsers
 
